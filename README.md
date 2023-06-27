@@ -1,2 +1,2 @@
-# PPrimeiro uso do Git/Github
+# Primeiro uso do Git/Github
 primeira alteração 
